@@ -28,12 +28,7 @@ Streamlit
 
 Pandas
 
-🚀 Getting Started
 
-git clone https://github.com/yourusername/email-sorter.git
-cd email-sorter
-pip install -r requirements.txt
-streamlit run app.py
 💡 Example Input
 Hey Team,
 We have a project deadline this Friday..
