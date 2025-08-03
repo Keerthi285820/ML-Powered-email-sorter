@@ -1,4 +1,5 @@
 📬 ML-Powered Email Sorter
+
 A lightweight and intuitive Streamlit web app that automatically classifies raw email texts into meaningful categories using simple NLP-based keyword detection.
 
 Paste multiple emails into the input box (each separated by a blank line), and the app will instantly sort them into:
